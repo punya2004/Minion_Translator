@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+#input {
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 10vh;
+  width: 50%;
+  padding: 1rem;
+  margin-left: 100px;
+  margin-top: 60px;
+}
+
+#btn-translate {
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 10px;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 50px;
+}
+
+#output {
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 10vh;
+  width: 50%;
+  padding: 1rem;
+  background-color: white;
+  overflow-y: scroll;
+  resize: none;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+  margin-top: 100px;
+}
+
+#app {
+  text-align: center;
+  background-image: url(minion1.jpg);
+  background-size: cover;
+  background-position: center;
+}
