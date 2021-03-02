@@ -1,2 +1,2 @@
 # Minion_Translator
-Created with CodeSandbox
+## This is a translator app built with VanilaJS.
